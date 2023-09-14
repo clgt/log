@@ -1,0 +1,26 @@
+module github.com/clgt/log
+
+go 1.21.1
+
+require (
+	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59
+	github.com/fatih/color v1.15.0
+	github.com/mattn/go-colorable v0.1.13
+	github.com/pkg/errors v0.9.1
+	github.com/stretchr/testify v1.8.4
+	github.com/tj/assert v0.0.3
+	github.com/tj/go-spin v1.1.0
+)
+
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
+	github.com/kr/text v0.2.0 // indirect
+	github.com/mattn/go-isatty v0.0.19 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/rogpeppe/go-internal v1.9.0 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
+	golang.org/x/sys v0.12.0 // indirect
+	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
